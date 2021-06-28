@@ -1,5 +1,5 @@
 {
-  "name": "foostart/package-acl",
+  "name": "son/package-acl",
   "description": "Laravel authentication and ACL package with a cool admin panel. Laravel 7x",
   "keywords": [
     "acl",
