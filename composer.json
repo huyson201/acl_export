@@ -1,5 +1,5 @@
 {
-  "name": "son/package-acl",
+  "name": "sondemo/package-acl",
   "description": "Laravel authentication and ACL package with a cool admin panel. Laravel 7x",
   "keywords": [
     "acl",
